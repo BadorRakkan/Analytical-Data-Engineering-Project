@@ -30,6 +30,10 @@
 2. Create SQL queries for joining daily sales and updated inventory tables to generate the weekly sales and inventory fact table.
 3. To realize the requirements from the Metabase BI purpose, we also need the Date_dim, Warehouse, and Item tables in the Prod schema.
 
+> [!NOTE]
+> More information is available within the presentation file.
+
+
 ## Step 5: Metabase
 
 1. Install and configure Metabase for data visualization and report generation.
